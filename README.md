@@ -21,9 +21,9 @@
 
 Sobre os programas:
 
-- [tudo_sobre__Pilhas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/list_tuplas.py) </br>`  Casos de uso utilizando Pilhas com explicação e lista de exercícios`
+- [tudo_sobre__Pilhas](https://github.com/Matheus-Nazario/tudo_sobre_Filas_e_Pilhas_/blob/main/tudo_sobre__Pilhas.py) </br>`  Casos de uso utilizando Pilhas com explicação e lista de exercícios`
 
-- [tudo_sobre_Filas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/list_tuplas.py) </br> `  Casos de uso utilizando Filas com explicação e lista de exercícios `
+- [tudo_sobre_Filas](https://github.com/Matheus-Nazario/tudo_sobre_Filas_e_Pilhas_/blob/main/tudo_sobre_Filas.py) </br> `  Casos de uso utilizando Filas com explicação e lista de exercícios `
 
 
 <br>
